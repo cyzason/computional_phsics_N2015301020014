@@ -7,3 +7,4 @@
 - [x] [Exercise06](https://github.com/cyzason/computional_phsics_N2015301020014/blob/master/%E6%B7%B7%E6%B2%8C.png)  [代码](http://note.youdao.com/noteshare?id=7298ba46f9fd520c6b3c18d1f3f96854)
 [报告](http://note.youdao.com/noteshare?id=a925b8a8015400f4edca4e549ce5d10e)
 - [x] [Exercise07](http://note.youdao.com/noteshare?id=ea6628d2882d32a26006a13514b07d60) 
+- [x] [Mid-term](http://note.youdao.com/noteshare?id=c5d6dc06ba750fb575bf73e7a8ef2206)
