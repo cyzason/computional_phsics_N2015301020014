@@ -8,3 +8,4 @@
 [报告](http://note.youdao.com/noteshare?id=a925b8a8015400f4edca4e549ce5d10e)
 - [x] [Exercise07](http://note.youdao.com/noteshare?id=ea6628d2882d32a26006a13514b07d60) 
 - [x] [Mid-term](http://note.youdao.com/noteshare?id=c5d6dc06ba750fb575bf73e7a8ef2206)
+- [x] [Exercise08](http://note.youdao.com/noteshare?id=3882a412369fb1e037d58522f4246f6f)
